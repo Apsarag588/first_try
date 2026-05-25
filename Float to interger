@@ -1,0 +1,4 @@
+num = 10.75
+int_num = int(num)
+
+print(int_num)
